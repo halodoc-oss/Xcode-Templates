@@ -18,31 +18,31 @@ This would copy the templates and code snippets to $HOME/Library/Developer/Xcode
 
 1. Select the required template (ex. Feature)
 
-![image info](./img/Choose_A_Template.png)
+![image info](./img/Choose_A_Template.PNG)
 
 2. Give a feature Name
 
-![image info](./img/Feature_Name.png)
+![image info](./img/Feature_Name.PNG)
 
 3. Select the View Type : XIB/StoryBoard/None
 
-![image info](./img/View_Type.png)
+![image info](./img/View_Type.PNG)
 
 4. Select the Create List Objects based on your requirement
 
-![image info](./img/Create_List_Models.png)
+![image info](./img/Create_List_Models.PNG)
 
 5. Click Next
 
 6. The Xcode Creates the Actual Folders on devices and we cannot create a folder reference.
 
-![image info](./img/Folders.png)
+![image info](./img/Folders.PNG)
 
 7. Click on the newly created folder and click on Delete > Remove References
 
 8. Click on Add Files > Select the Newly Created Feature Folder. Make sure Create Groups is Selected in the Added Folders
 
-![image info](./img/References_Folders.png)
+![image info](./img/References_Folders.PNG)
 
 10. Click on Add
 
@@ -50,8 +50,8 @@ This would copy the templates and code snippets to $HOME/Library/Developer/Xcode
 
 1. In the Xcode search for tableviewdelegate
 
-![image info](./img/Code_Snippet.png)
+![image info](./img/Code_Snippet.PNG)
 
 2. Select the Code Snippet or Click on Enter
 
-![image info](./img/Code_Snippet_Result.png)
+![image info](./img/Code_Snippet_Result.PNG)
